@@ -15,6 +15,7 @@ Product Page:
 <img src="https://miro.medium.com/max/640/1*jawv7KXvXtEVqyHd7RwoXQ.webp">
 
 Payment Page:
+
 <img src="https://miro.medium.com/max/640/1*lanNBTxJdKylGnV5yDHn0w.webp"/>
 Discover
 SHOP.COM is a new kind of shopping comparison site that offers the most comprehensive shopping experience on the web. Our shopping experts have drawn on their industry experience and insider connections to bring you the best collection of the stores you can’t live without, and the brands and products you love — all in one place.
